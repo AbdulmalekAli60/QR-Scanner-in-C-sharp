@@ -1,0 +1,12 @@
+C:\Users\Zxshx\OneDrive\Desktop\C# 2\QR Scanning\QR Scanning\bin\Debug\QR Scanning.exe.config
+C:\Users\Zxshx\OneDrive\Desktop\C# 2\QR Scanning\QR Scanning\bin\Debug\QR Scanning.exe
+C:\Users\Zxshx\OneDrive\Desktop\C# 2\QR Scanning\QR Scanning\bin\Debug\QR Scanning.pdb
+C:\Users\Zxshx\OneDrive\Desktop\C# 2\QR Scanning\QR Scanning\bin\Debug\QRCoder.dll
+C:\Users\Zxshx\OneDrive\Desktop\C# 2\QR Scanning\QR Scanning\obj\Debug\QR Scanning.csproj.AssemblyReference.cache
+C:\Users\Zxshx\OneDrive\Desktop\C# 2\QR Scanning\QR Scanning\obj\Debug\QR_Scanning.Form1.resources
+C:\Users\Zxshx\OneDrive\Desktop\C# 2\QR Scanning\QR Scanning\obj\Debug\QR_Scanning.Properties.Resources.resources
+C:\Users\Zxshx\OneDrive\Desktop\C# 2\QR Scanning\QR Scanning\obj\Debug\QR Scanning.csproj.GenerateResource.cache
+C:\Users\Zxshx\OneDrive\Desktop\C# 2\QR Scanning\QR Scanning\obj\Debug\QR Scanning.csproj.CoreCompileInputs.cache
+C:\Users\Zxshx\OneDrive\Desktop\C# 2\QR Scanning\QR Scanning\obj\Debug\QR Scanning.csproj.CopyComplete
+C:\Users\Zxshx\OneDrive\Desktop\C# 2\QR Scanning\QR Scanning\obj\Debug\QR Scanning.exe
+C:\Users\Zxshx\OneDrive\Desktop\C# 2\QR Scanning\QR Scanning\obj\Debug\QR Scanning.pdb
